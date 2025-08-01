@@ -78,6 +78,8 @@ Educational: Teaches the fundamental principles of NLP and chatbot design.
 
 #OUTPUT:
 
+<img width="967" height="834" alt="Image" src="https://github.com/user-attachments/assets/b57822ce-8376-4809-9771-c91c22b7ce77" />
+
 
 
 
